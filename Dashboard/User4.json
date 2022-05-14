@@ -1,0 +1,15 @@
+{
+  "user": {
+    "Passive": {
+      "Looking at": {
+        "Charachter": ["Adam", "Adam", "Adam"],
+        "Enviornment": {
+          "Real": ["Chair", "Chair"],
+          "Virtual": ["Fridge", "Mask", "Busnen Burner", "Flask"]
+        }
+      },
+      "Idle": 20
+    },
+    "Active": { "Play": 30, "Solve": { "Achieve": 5, "Failed": 0 } }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "user": {
+    "Passive": {
+      "Looking at": {
+        "Charachter": ["Charile", "Charile", "Charile"],
+        "Enviornment": {
+          "Real": ["Chair", "Mail"],
+          "Virtual": ["Synerige", "Desk", "Clip"]
+        }
+      },
+      "Idle": 100
+    },
+    "Active": { "Play": 120, "Solve": { "Achieve": 1, "Failed": 4 } }
+  }
+}
